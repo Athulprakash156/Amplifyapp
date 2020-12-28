@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+table{
+  width: 100%;
+}
+.table-row{
+  height: 4rem;
+  border: 1px solid #000000;
+}
+img{
+  height: 60px;
+  width: 60px;
+  object-fit: contain;
+}
+button{
+  border: none;
+  padding: 5px;
+}
+.end-button{
+  margin-left: 15px;
+}
